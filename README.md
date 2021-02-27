@@ -1,5 +1,5 @@
 # conversor_moedas_br
-Conversor de moedas com VUE JS
+Conversor de moedas com VUE JS usando API ( source: https://free.currencyconverterapi.com/ ) 
 
 ## Project setup
 ```
